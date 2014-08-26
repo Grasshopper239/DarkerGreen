@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <color name="bg_item_activated">#67005f2f</color>
+    <color name="bg_item_selected">#cc005f2f</color>
+    <color name="bg_item_pressed">#67005f2f</color>
+    
+
+    <color name="realtimechat_message_textlink">#cc005f2f</color>
+    
+    <color name="hangout_pinned_participant_color">#ff005f2f</color>
+    <color name="pressed_bg">#67005f2f</color>
+    <color name="selected_bg">#cc005f2f</color>
+    <color name="focused_bg">#4d005f2f</color>
+    
+    
+    <color name="recommended_item_overlay_color">#7f005f2f</color>
+   
+    <color name="butter_bar_enable_circles_background_color">#ff005f2f</color>
+
+    <color name="mood_picker_highlight">#9a005f2f</color>
+    
+</resources>

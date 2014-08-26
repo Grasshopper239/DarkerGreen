@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+       
+<color name="holo_blue_dark">#ff005f2f</color> 
+   
+ <color name="holo_blue_light">#ff82ad97</color>
+	
+   
+ <color name="holo_blue_bright">#ff005f2f</color>   
+<color name="holo_orange_dark">#ff005f2f</color>                               
+<color name="holo_orange_light">#ff005f2f</color>
+	
+       	
+<color name="highlighted_text_dark">#80005f2f</color>
+    
+<color name="highlighted_text_light">#80005f2f</color>
+    
+<color name="highlighted_text_holo_dark">#80005f2f</color>
+    
+<color name="highlighted_text_holo_light">#80005f2f</color>
+	
+   
+<color name="hint_foreground_holo_light">#ff888888</color>
+
+
+ 
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="fake_action_bar_height">50.0dip</dimen>
+    <dimen name="dialpad_key_height">56.0dip</dimen>
+</resources>

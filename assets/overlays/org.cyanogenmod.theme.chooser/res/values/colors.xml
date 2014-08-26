@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="detailedview_pager_background">#ffffffff</color>
+    <color name="title_author_background">#ffffffff</color>
+    <color name="offwhite">#ffe9e8e8</color>
+    <color name="author_grey">#ff808184</color>
+    <color name="apply_button_text_color_enabled">#ffffffff</color>
+    <color name="apply_button_text_color_disabled">#ffbbbbbb</color>
+    <color name="apply_button_progress_color">#ff005f2f</color>
+    <color name="apply_button_default_color">#ffa3c0b1</color>
+    <color name="apply_button_pressed_color">#ffa3c0b1</color>
+    <color name="default_circle_indicator_fill_color">#ff005f2f</color>
+    <color name="default_circle_indicator_page_color">#ff808184</color>
+    <color name="default_circle_indicator_stroke_color">#ffdddddd</color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+      <style name="ThemeChooserActionBar" parent="@*android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#ff005f2f</item>
+        <item name="android:logo">@drawable/ic_app_themes_bw</item>
+        <item name="android:displayOptions">useLogo|showHome|showTitle</item>
+        <item name="android:titleTextStyle">@style/ThemeChooserActionBarTitleText</item>
+    </style>
+    <style name="ThemeChooserActionBarTitleText">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+   
+</resources>

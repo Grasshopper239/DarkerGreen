@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    
+<color name="blue">#ff005f2f</color>
+    <color name="blue_focused">#ffa3c0b1</color>
+<color name="darker_blue">#ff013208</color>
+<color name="conv_header_text_link_blue">#ff005f2f</color>
+<color name="account_item_selected_text_color">#ff005f2f</color>
+<color name="mail_app_blue">#ff005f2f</color>
+<color name="swipe_to_refresh_text_color">#ff005f2f</color>
+</resources>

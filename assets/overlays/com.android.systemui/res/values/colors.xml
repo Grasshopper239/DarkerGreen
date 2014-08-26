@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_recents_app_label_color">#ff000000</color>
+    <color name="batterymeter_bolt_color">#b2005f2f</color>
+    
+</resources>

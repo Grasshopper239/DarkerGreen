@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<style name="DialpadKeyButtonStyle">
+        <item name="android:background">@drawable/dialpad_key_backgrounds</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/dialpad_key_height</item>
+        <item name="android:soundEffectsEnabled">false</item>
+    </style>
+<style name="InCallDialpadKeyButtonStyle">
+        <item name="android:background">@drawable/dialpad_key_backgrounds</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/dialpad_key_height</item>
+        <item name="android:soundEffectsEnabled">false</item>
+    </style>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <color name="highlight_color_ics">#ff005f2f</color>
+    <color name="typed_word_color_ics">#d8005f2f</color>
+    <color name="suggested_word_color_ics">#b2005f2f</color>
+    <color name="highlight_translucent_color_ics">#99005f2f</color>
+    <color name="key_text_shadow_color_holo">@android:color/transparent</color>
+    <color name="key_text_inactivated_color_holo">#66e0e4e5</color>
+    <color name="key_hint_letter_color_holo">#80ffffff</color>
+    <color name="key_hint_label_color_holo">#a0ffffff</color>
+    <color name="key_shifted_letter_hint_inactivated_color_holo">#66ffffff</color>
+    <color name="key_shifted_letter_hint_activated_color_holo">@android:color/white</color>
+    <color name="spacebar_text_color_holo">#ffc0c0c0</color>
+    <color name="spacebar_text_shadow_color_holo">#80000000</color>
+    <color name="gesture_floating_preview_color_holo">#c0a3c0b1</color>
+    <color name="highlight_color_klp">#ff005f2f</color>
+    <color name="typed_word_color_klp">#d8005f2f</color>
+    <color name="suggested_word_color_klp">#b2005f2f</color>
+    <color name="highlight_translucent_color_klp">#99005f2f</color>
+
+    <color name="emoji_category_page_id_view_background">#ffffffff</color>
+    <color name="emoji_category_page_id_view_foreground">#80000000</color>
+    <color name="emoji_key_background_color">#00000000</color>
+    <color name="emoji_key_pressed_background_color">#30000000</color>
+
+</resources>

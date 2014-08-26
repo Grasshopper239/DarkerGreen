@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!-- Set deafult scale factor for the icons -->
+    <scale factor="1.2" />
+
+    <!-- Set back image for composed icons -->
+    <iconback img="iconback" />
+
+    <!-- Set the mask image for composed icons
+         Original icon will be masked off using this mask -->
+    <iconmask img="iconmask" />
+
+    <!-- Set foreground image for composed icons -->
+    <iconupon img="iconupon" />
+</resources>

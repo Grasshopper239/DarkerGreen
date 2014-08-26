@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ingest_highlight_semitransparent">#88005f2f</color>
+    <color name="ingest_date_tile_text">#ff005f2f</color>
+    <color name="review_control_pressed_color">#ff005f2f</color>
+    <color name="review_control_pressed_fan_color">#3f005f2f</color>
+    <color name="popup_title_color">#ff005f2f</color>
+
+    <color name="pano_progress_done">#ff31692f</color>
+    <color name="pano_progress_indication">#ff005f2f</color>
+    <color name="mode_selection_border">#ff005f2f</color>
+    <color name="holo_blue_light">#ff005f2f</color>
+  <color name="default_background">#fff3f3f3</color>
+    <color name="albumset_background">#fff3f3f3</color>
+ <color name="album_background">#fff3f3f3</color>
+<color name="photo_background">#fff3f3f3</color>
+<color name="cache_background">#fff3f3f3</color>
+<color name="slideshow_background">#fff3f3f3</color>
+    <color name="background_toolbar">#ff005f2f</color>
+    <color name="background_main_toolbar">#ff005f2f</color>
+<color name="filtershow_background">#ff005f2f</color>
+<color name="filtershow_categoryview_background">#ff005f2f</color>
+</resources>

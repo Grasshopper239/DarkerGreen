@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   
+ <style name="Theme.Settings" parent="@*android:style/Theme.Holo.Light.DarkActionBar">
+</style>
+ <style name="Theme.Base.WifiDialog" parent="@*android:style/Theme.Holo.Light.Dialog.Alert">
+     
+  <item name="android:windowSoftInputMode">adjustResize</item>
+  
+ </style>
+
+</resources>

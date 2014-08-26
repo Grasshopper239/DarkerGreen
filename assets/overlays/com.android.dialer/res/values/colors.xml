@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+  This file is used for those applications which wants to run in the
+  native android mode.
+-->
+
+
+<resources>
+
+    
+<color name="background_dialpad">#ffeaeaea</color>
+<color name="background_dialpad_pressed">#ffa3c0b1</color>
+<color name="dialpad_primary_text_color">#ff005f2f</color>
+<color name="dialpad_secondary_text_color">#ff000000</color>  
+<color name="incall_secondary_info_background">#80005f2f</color>
+<color name="call_log_voicemail_highlight_color">#ff005f2f</color>
+<color name="dialpad_call_button_color">#ff005f2f</color>
+<color name="call_log_header_color">#ff005f2f</color>
+<color name="call_log_voicemail_status_action_text_color">#ff005f2f</color>
+<color name="call_stats_incoming">#ff005f2f</color>
+<color name="actionbar_background_color">#ff005f2f</color>
+<color name="tab_selected_color">#ff005f2f</color>
+ <color name="tab_underline_selected_color">#ff005f2f</color>
+<color name="actionbar_underline">#ff005f2f</color>
+<color name="item_selected">#66005f2f</color>
+<color name="dialpad_digits_text_color">#ff005f2f</color>
+<color name="background_digits_dialpad">#ff005f2f</color>
+<color name="text_highlight_color">#ff005f2f</color>
+</resources>
+ 

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    
+<dimen name="action_bar_menu_item_height">40.0dip</dimen>
+
+<dimen name="abc_action_bar_default_height">40.0dip</dimen>
+<dimen name="abc_action_bar_icon_vertical_padding">4.0dip</dimen>
+
+</resources>

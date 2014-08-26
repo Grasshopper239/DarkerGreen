@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="AndroidDarkTheme" parent="@*android:style/Theme.Holo.Light.DarkActionBar" />
+    <style name="ListItemTitle" parent="@*android:style/TextAppearance.Medium"> 
+	<item name="android:textColor">#ff000000</item>
+</style>
+    <style name="ListItemSummary" parent="@*android:style/TextAppearance.Small">
+	<item name="android:textColor">#ff000000</item>
+</style>
+</resources>

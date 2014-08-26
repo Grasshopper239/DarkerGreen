@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+    <style name="ClingTitleText">
+        <item name="android:textSize">23.0sp</item>
+        <item name="android:textColor">#ff005f2f</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+        <item name="android:shadowColor">#ff000000</item>
+        <item name="android:shadowDy">2.0</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="Theme.Settings.Calculator" parent="@*android:style/Theme.Holo.Light.DarkActionBar">
+    </style>
+ <style name="Theme.Calculator" parent="@*android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/background</item>
+</style>
+</resources>

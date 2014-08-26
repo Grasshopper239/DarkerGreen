@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="padded">
+        <item name="android:paddingStart">16.0dip</item>
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="DialogWhenLarge" parent="@*android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:colorForeground">@*android:color/bright_foreground_holo_light</item>
+        <item name="android:colorBackground">@*android:color/background_holo_light</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:disabledAlpha">0.5</item>
+        <item name="android:textAppearance">@*android:style/TextAppearance.Holo.Light</item>
+        <item name="android:textAppearanceInverse">@*android:style/TextAppearance.Holo.Light.Inverse</item>
+        <item name="android:textColorPrimary">@*android:color/primary_text_holo_light</item>
+        <item name="android:textColorPrimaryDisableOnly">@*android:color/primary_text_disable_only_holo_light</item>
+        <item name="android:textColorSecondary">@*android:color/secondary_text_holo_light</item>
+</style>
+</resources>
